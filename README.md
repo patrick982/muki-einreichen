@@ -10,6 +10,13 @@ Ein kleines Werkzeug, das drei Dinge zeigt, die im Alltag oft mühsam sind:
 ablegen** – alles ohne Framework, nur mit der Python-Stdlib plus `pypdf`,
 `reportlab` und `pillow`.
 
+> **Wie das entstanden ist.** Das ist ein **KI-gestütztes** Projekt. Es wurde
+> gemeinsam mit einem KI-Coding-Assistenten (opencode) entwickelt: Die
+> Anforderungen und Richtung kamen von mir, getestet und benutzt habe ich es
+> selbst – den Code hat überwiegend der Assistent geschrieben. Ich stelle es als
+> echtes, funktionierendes Werkzeug vor, das ich einsetze – ohne es als
+> handgeschriebenen Code auszugeben.
+
 ## Ablauf
 
 1. Arztrechnung (Wahlarzt/Honorarnote) **zuerst** bei der ÖGK über die

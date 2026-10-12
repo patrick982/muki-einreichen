@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+profile.json
+out/
+ansuchen_formular.pdf
+
+# echte Faelle bleiben privat - nur die Vorlage ist im Repo
+/faelle/*
+!/faelle/vorlage/

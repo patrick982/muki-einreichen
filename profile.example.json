@@ -1,0 +1,23 @@
+{
+  "polizzennummer": "0000000",
+  "kundennummer": "000000000",
+  "name": "Max Mustermann",
+  "strasse": "Musterstraße 12",
+  "plz_ort": "1010 Wien",
+  "telefon": "+43 664 0000000",
+  "email": "max.mustermann@example.com",
+  "absender_email": "max.mustermann@example.com",
+  "kontoinhaber": "Max Mustermann",
+  "bank": "Beispielbank",
+  "iban": "AT00 0000 0000 0000 0000",
+  "bic": "",
+  "signature": "",
+  "signature_text": "Max Mustermann",
+  "gmail": {
+    "address": "max.mustermann@example.com",
+    "imap_host": "imap.gmail.com",
+    "imap_port": 993,
+    "drafts_folder": "[Gmail]/Drafts",
+    "secret_service": "muki-gmail"
+  }
+}

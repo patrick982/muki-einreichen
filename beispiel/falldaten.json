@@ -1,0 +1,17 @@
+{
+  "datum": "2026-10-07",
+  "art_des_versicherungsschutzes": "Wahlarzt",
+  "versicherte_personen": ["Max Mustermann"],
+  "diagnose": ["Akute Bronchitis (J20.9)"],
+  "leistungen": [
+    "Facharztkonsultation inkl. Blutabnahme",
+    "Honorarnote Nr. 2026-4711 vom 12.09.2026 (Dr. E. Beispiel)"
+  ],
+  "unterlagen": [
+    "Arztrechnung/Honorarnote Dr. Beispiel",
+    "ÖGK-Bestätigung über den geleisteten Kostenersatz"
+  ],
+  "datum_formular": "07.10.2026",
+  "rechnungen": ["rechnung_1.pdf"],
+  "oegk_bestaetigungen": ["oegk_bestaetigung_1.pdf"]
+}

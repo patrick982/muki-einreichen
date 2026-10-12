@@ -1,0 +1,17 @@
+{
+  "datum": "JJJJ-MM-TT",
+  "art_des_versicherungsschutzes": "Wahlarzt",
+  "versicherte_personen": ["Vorname Nachname"],
+  "diagnose": ["Diagnose/Diagnosecode"],
+  "leistungen": [
+    "Kurze erste Leistung (schmales Feld!)",
+    "Weitere Leistung / Honorarnoten-Nr. Datum"
+  ],
+  "unterlagen": [
+    "Arztrechnung/Honorarnote",
+    "ÖGK-Bestätigung über den geleisteten Kostenersatz"
+  ],
+  "datum_formular": "TT.MM.JJJJ",
+  "rechnungen": ["rechnung_1.pdf"],
+  "oegk_bestaetigungen": ["oegk_bestaetigung_1.pdf"]
+}
